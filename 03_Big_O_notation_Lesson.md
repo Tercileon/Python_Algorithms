@@ -1,7 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
-### Notes On Big-O Notation
+
+## Notes On Big-O Notation
 
 * We use big-O notation in the analysis of algorithms to describe an algorithm’s usage of computational resources, in a way that is independent of computer architecture or clock rate.
 
@@ -23,6 +25,7 @@
     * This is particularly important in the realm of scientific computing: for example, doing analysis on the human genome or data from Hubble involves input (arrays or lists) of size well into the tens of millions (of base pairs, pixels, etc).
 
 ---
+
 **1**
 
 * At this scale it becomes easy to see why big O notation is helpful. Say you’re running a program to analyze base pairs and have two different implementations: one is O(n lg n) and the other is O(n^3 ). Even without knowing how fast of a computer you’re using, it’s easy to see that the first algorithm will be n^3 /(n lg n) = n^2 / lg n faster than the second, which is a BIG difference at input that size.
@@ -328,4 +331,5 @@ The depth of this tree (the number of levels it has) is n, and at each level we 
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/04_Big_O_Analysis_Demos.md"> Continue to Next topic </a>
+|[Next Topic](04_Big_O_Analysis_Demos.md)|
+|---|
