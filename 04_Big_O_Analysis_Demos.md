@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -485,5 +486,5 @@ def merge(lyst, copyBuffer, low, middle, high):
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/05_Analysis_Perf_Labs.md" > Continue to Performance Labs </a>
-
+|[Next Topic](/05_Analysis_Perf_Labs.md)|
+|---|
