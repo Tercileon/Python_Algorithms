@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -134,4 +135,5 @@ Nodes of doubly linked list:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/11_Linked_List_Demo.md"> Continue to Next Topic </a>
+|[Next Topic](/11_Linked_List_Demo.md)|
+|---|
