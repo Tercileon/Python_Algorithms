@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -193,10 +194,11 @@ class ERView(object):
 
 The class ERModel uses a priority queue to schedule the patients. Its implementation is left as a programming project for you.
 
-**STUDENT PERFORMANCE LAB**
+**STUDENT PERFORMANCE LAB:** Queue Lab1
 
 * Complete the emergency room scheduler application as described in the case study.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/20_Queue_Perf_Lab.md" > Continue to Queue Performance Lab </a>
+|[Queue Lab1](/20_Queue_Perf_Lab.md)|
+|---|
