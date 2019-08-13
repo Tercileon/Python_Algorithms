@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -60,4 +61,6 @@ True, False, False. The code works. In summary, the push and pop operations of t
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/16_Queue_Lesson.md"> Continue to Next Topic </a>
+|[Next Topic](/16_Queue_Lesson.md)|
+|---|
+
