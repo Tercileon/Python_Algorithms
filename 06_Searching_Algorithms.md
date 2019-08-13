@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -72,4 +73,5 @@ We basically ignore half of the elements just after one comparison.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/07_Sorting_Algorithms.md"> Continue to Next Topic </a>
+|[Next Topic](/07_Sorting_Algorithms.md)|
+|---|
