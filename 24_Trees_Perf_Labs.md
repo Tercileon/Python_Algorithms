@@ -114,5 +114,7 @@ Note: Search for a node to remove. If the node is found, delete the node.
 
 **End of Python Algorithms**
 
+---
+
 |<a href="https://github.com/Tercileon/A-La-Cart" > Return to Cyber A-La-Carte </a>|
 |---|
