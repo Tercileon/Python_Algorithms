@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -137,4 +138,5 @@ Throughout this topic we covered:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/10_Doubly_Linked_List.md"> Continue to next Topic </a>
+|[Next Topic](/10_Doubly_Linked_List.md)|
+|---|
