@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -209,4 +210,5 @@ In one fell swoop, we orphan all the nodes at the tail and head pointers of the 
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/12_Linked_List_Perf_Lab.md"> Continue to Linked List Performance Lab </a>
+|[Lab 1](/12_Linked_List_Perf_Lab.md)|
+|---|
