@@ -1,10 +1,12 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
 ## Practice Labs
 
 ---
+
 **Exercise 1**
 
 * Write a tester program that counts and displays the number of iterations of the following loop:
@@ -46,4 +48,5 @@ while problemSize > 0:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/06_Searching_Algorithms.md"> Continue to Next Topic </a>
+|[Next Topic](/06_Searching_Algorithms.md)|
+|---|
