@@ -79,5 +79,5 @@ Output:
 
 ---
 
-|[Que DemoLab](/18_Queue_demo_lab.md)|
+|[Queue DemoLab](/18_Queue_demo_lab.md)|
 |---|
