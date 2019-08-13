@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -113,4 +114,5 @@ Note: Search for a node to remove. If the node is found, delete the node.
 
 **End of Python Algorithms**
 
-<a href="https://github.com/CyberTrainingUSAF/07-Network-Programming/blob/master/00-Table-of-Contents.md"> Continue to Network Programming </a>
+|<a href="https://github.com/Tercileon/A-La-Cart" > Return to Cyber A-La-Carte </a>|
+|---|
