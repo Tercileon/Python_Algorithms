@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -60,4 +61,5 @@ In Python, all classes are organized into a single hierarchy, as there exists a 
  
  ---
  
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/22_Trees_Examples_Trees.md" > Continue to Next Topic </a>
+|[Next Topic](/22_Trees_Examples_Trees.md)|
+|---|
