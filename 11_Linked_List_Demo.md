@@ -204,11 +204,11 @@ In one fell swoop, we orphan all the nodes at the tail and head pointers of the 
 
 ---
 
-**Performance Lab**
+**Performance Lab: Doubly Linked**
 
 * Complete the Linked List Performance Lab prior to continuing to the next topic
 
 ---
 
-|[Lab 1](/12_Linked_List_Perf_Lab.md)|
+|[Doubly Linked Lab](/12_Linked_List_Perf_Lab.md)|
 |---|
