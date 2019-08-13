@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -72,4 +73,6 @@ as well as an additional integer for storing the pointer to the next node.
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/09_Singly_Linked_List.md"> Continue to next Topic </a>
+|[Next Topic](/09_Singly_Linked_List.md)|
+|---|
+
