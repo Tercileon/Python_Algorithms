@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/00-Table-of-Contents.md"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -302,4 +303,5 @@ class Customer(object):
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/06-Intro-to-Algorithms/blob/master/19_Queue_Demo_lab_2.md" > Continue to Emergency Room Case Study </a>
+|[Queue Demo Lab 2](/19_Queue_Demo_lab_2.md)|
+|---|
